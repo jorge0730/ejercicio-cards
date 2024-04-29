@@ -1,0 +1,11 @@
+.App h1{
+  color:rgb(0, 81, 255);
+  text-align: center;
+  font-style: italic;
+}
+.contenedor{
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
